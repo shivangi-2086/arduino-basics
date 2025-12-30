@@ -7,10 +7,12 @@ learning Internet of Things (IoT) fundamentals.
 - Arduino (Simulation)
 - Tinkercad Circuits
 
+  
 ## Programs
 - LED Blinking
   - Basic digital output control
-  - Understanding setup() and loop()
+  - Arduino sketch included (led_blink.ino)
+
 
 ## Learning Outcome
 - Understanding Arduino program structure

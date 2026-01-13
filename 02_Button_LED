@@ -1,0 +1,17 @@
+# Button Controlled LED (Arduino Simulation)
+
+This project demonstrates digital input handling using a push button to control an LED.
+
+## Concepts Covered
+- Digital input using push button
+- INPUT_PULLUP configuration
+- Conditional logic using if-else
+- Digital output control
+
+## Working
+- LED turns ON when the button is pressed
+- LED turns OFF when the button is released
+
+## Tools Used
+- Arduino (Simulation)
+- Tinkercad Circuits
